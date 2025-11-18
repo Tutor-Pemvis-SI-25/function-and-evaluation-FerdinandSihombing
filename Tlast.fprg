@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Tlast"/>
+        <attribute name="authors" value="ASUS"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-11-18 09:14:40 PM"/>
+        <attribute name="created" value="QVNVUztMQVBUT1AtOTRNMjk0Rks7MjAyNS0xMS0xODswOTowNDoyMyBQTTsyNTk3"/>
+        <attribute name="edited" value="QVNVUztMQVBUT1AtOTRNMjk0Rks7MjAyNS0xMS0xODswOToxNDo0MCBQTTsxOzI3MDU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="judul" type="String" array="True" size="10"/>
+            <declare name="kode" type="String" array="True" size="10"/>
+            <declare name="matakuliah" type="String" array="True" size="10"/>
+            <declare name="dosen" type="String" array="True" size="10"/>
+            <declare name="deadline" type="String" array="True" size="10"/>
+            <declare name="keterangan" type="String" array="True" size="10"/>
+            <declare name="" type="Integer" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>
